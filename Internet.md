@@ -9,7 +9,7 @@ Note: The Internet is an infrastructure, whereas the Web is a service build on t
 ## What is HTTP?
 
 HTTP(Hypertext Transfer Protocol) is a protocol which allows the fetching of resources, such as HTML documents. It is the foundation of any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser.
-A complete document is reconstructed from the different sub-documents fetched, for instance text, layout description, images, videos, scripts, and more. 
+A complete document is reconstructed from the different sub-documents fetched, for instance text, layout description, images, videos, scripts, and more.
 
 Dive deeper [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview).
 
@@ -27,9 +27,9 @@ The most prominent function of DNS is the translation of human-friendly domain n
 
 ## What is domain name?
 
-A **domain name** is an identification *string* that defines a realm of administrative autonony, authority or control within the *Internet*. 
-Domain names are used in various networking contexts and for application-specific naming and addressing purposes. 
-In general, a domain name identifies a *network domain*, or it represents an *Internet Protocol*(IP) resource, such as personal computer used to access the Internet, a server computer hosting a website, or the website iteself or any other service communicated via the Internet. 
+A **domain name** is an identification *string* that defines a realm of administrative autonony, authority or control within the *Internet*.
+Domain names are used in various networking contexts and for application-specific naming and addressing purposes.
+In general, a domain name identifies a *network domain*, or it represents an *Internet Protocol*(IP) resource, such as personal computer used to access the Internet, a server computer hosting a website, or the website iteself or any other service communicated via the Internet.
 
 ## What is hosting?
 
